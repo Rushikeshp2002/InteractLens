@@ -37,4 +37,42 @@ Code Link:- https://drive.google.com/drive/folders/1TV7D6RClKg3v1v0t818a7hxFpreH
 <h3>FrontEnd✨</h3>
 1) Install Node Modules (npm init)<br>
 2) Make Sure The Server is running in pycharm<br>
+<hr>
+<br>
+<h1>Screenshots of the website</h1><br>
+<h2>Home Page</h2>
+  <img src="https://github.com/Rushikeshp2002/Images/blob/main/InteractLens%20Images/mockup1.png" style="width=100%">
+  <br>
+  
+  <h2>Login & Register</h2>
+  <img src="https://github.com/Rushikeshp2002/tp/blob/main/3.png" style="width=100%"><br>
+  <img src="https://github.com/Rushikeshp2002/tp/blob/main/3.png" style="width=100%"><br>
+  
+  <h2>All Products</h2>
+  <img src="https://github.com/Rushikeshp2002/tp/blob/main/4.png" style="width=100%"><br>
+  
+  <h2>Recommended Products</h2>
+  <img src="https://github.com/Rushikeshp2002/tp/blob/main/5.png" style="width=100%"><br>
+  
+  <h2>Inside Card</h2>
+  <img src="https://github.com/Rushikeshp2002/tp/blob/main/6.png" style="width=100%"><br>
 
+<h1>API Call Screenshots</h1><br>
+ <h2>Login And Register</h2>
+  <img src="https://github.com/Rushikeshp2002/tp/blob/main/3.png" style="width=100%"><br>
+  <img src="https://github.com/Rushikeshp2002/tp/blob/main/3.png" style="width=100%"><br>
+  
+  <h2>All Products</h2>
+  <img src="https://github.com/Rushikeshp2002/tp/blob/main/4.png" style="width=100%"><br>
+  
+  <h2>Recommended Products</h2>
+  <img src="https://github.com/Rushikeshp2002/tp/blob/main/5.png" style="width=100%"><br>
+  
+  <h2>Insrement</h2>
+  <img src="https://github.com/Rushikeshp2002/tp/blob/main/6.png" style="width=100%"><br>
+
+<h1>Tech Stack Used</h1>
+  <img src="https://github.com/Rushikeshp2002/tp/blob/main/6.png" style="width=100%"><br>
+
+<h1>Architecture Of the Project</h1>
+  <img src="https://github.com/Rushikeshp2002/tp/blob/main/6.png" style="width=100%"><br>
