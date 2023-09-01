@@ -41,38 +41,37 @@ Code Link:- https://drive.google.com/drive/folders/1TV7D6RClKg3v1v0t818a7hxFpreH
 <br>
 <h1>Screenshots of the website</h1><br>
 <h2>Home Page</h2>
-  <img src="https://github.com/Rushikeshp2002/Images/blob/main/InteractLens%20Images/mockup1.png" style="width=100%">
+  <img src="https://github.com/Rushikeshp2002/Images/blob/main/mockup1.png" style="width=100%">
   <br>
   
-  <h2>Login & Register</h2>
-  <img src="https://github.com/Rushikeshp2002/tp/blob/main/3.png" style="width=100%"><br>
-  <img src="https://github.com/Rushikeshp2002/tp/blob/main/3.png" style="width=100%"><br>
+  <h2>Login</h2>
+  <img src="https://github.com/Rushikeshp2002/Images/blob/main/mockup7.png" style="width=100%"><br>
   
   <h2>All Products</h2>
-  <img src="https://github.com/Rushikeshp2002/tp/blob/main/4.png" style="width=100%"><br>
+  <img src="https://github.com/Rushikeshp2002/Images/blob/main/mockup3.png" style="width=100%"><br>
   
   <h2>Recommended Products</h2>
-  <img src="https://github.com/Rushikeshp2002/tp/blob/main/5.png" style="width=100%"><br>
+  <img src="https://github.com/Rushikeshp2002/Images/blob/main/mockup2.png" style="width=100%"><br>
   
   <h2>Inside Card</h2>
-  <img src="https://github.com/Rushikeshp2002/tp/blob/main/6.png" style="width=100%"><br>
+  <img src="https://github.com/Rushikeshp2002/Images/blob/main/mockup6.png" style="width=100%"><br>
 
 <h1>API Call Screenshots</h1><br>
  <h2>Login And Register</h2>
-  <img src="https://github.com/Rushikeshp2002/tp/blob/main/3.png" style="width=100%"><br>
-  <img src="https://github.com/Rushikeshp2002/tp/blob/main/3.png" style="width=100%"><br>
+  <img src="https://github.com/Rushikeshp2002/Images/blob/main/IN%25.png" style="width=100%"><br>
+  <img src="https://github.com/Rushikeshp2002/Images/blob/main/IN4.png" style="width=100%"><br>
   
   <h2>All Products</h2>
-  <img src="https://github.com/Rushikeshp2002/tp/blob/main/4.png" style="width=100%"><br>
+  <img src="https://github.com/Rushikeshp2002/Images/blob/main/IN2.png" style="width=100%"><br>
   
   <h2>Recommended Products</h2>
-  <img src="https://github.com/Rushikeshp2002/tp/blob/main/5.png" style="width=100%"><br>
+  <img src="https://github.com/Rushikeshp2002/Images/blob/main/IN1.png" style="width=100%"><br>
   
-  <h2>Insrement</h2>
-  <img src="https://github.com/Rushikeshp2002/tp/blob/main/6.png" style="width=100%"><br>
+  <h2>Increment</h2>
+  <img src="https://github.com/Rushikeshp2002/Images/blob/main/IN3.png" style="width=100%"><br>
 
 <h1>Tech Stack Used</h1>
-  <img src="https://github.com/Rushikeshp2002/tp/blob/main/6.png" style="width=100%"><br>
+  <img src="https://github.com/Rushikeshp2002/Images/blob/main/pie-chart.png" style="width=100%"><br>
 
 <h1>Architecture Of the Project</h1>
-  <img src="https://github.com/Rushikeshp2002/tp/blob/main/6.png" style="width=100%"><br>
+  <img src="https://github.com/Rushikeshp2002/Images/blob/main/Architecture.png" style="width=100%"><br>
