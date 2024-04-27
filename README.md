@@ -2,7 +2,7 @@
 # InteractLens
 User Interaction Analysis and Recommendation System<br>
 
-Code Link:- https://drive.google.com/drive/folders/1TV7D6RClKg3v1v0t818a7hxFpreH5g0I?usp=sharing<br>
+
 <p>Note- You can find a video inside the drive link of how the project works<br></p>
 
 <h1>Instructions To Run this Project🔨</h1>
